@@ -1,5 +1,5 @@
 # 🤖 Arduino 4-Servo Motion Control for Humanoid Robot
-
+![Super Tumelo-Maimu](https://github.com/user-attachments/assets/829185bf-e4ed-4f3e-bf8d-ef7448e1ba80)
 ## 📋 Description
 This project demonstrates how to control four servo motors on a humanoid robot using Arduino. The program performs the following sequence:
 
@@ -101,6 +101,29 @@ void setup() {
 void loop() {
   // Do nothing, servos hold at 90 degrees
 }
+```
+
 
 
 ## 📷 Preview
+in tinkercad:
+![Super Tumelo-Maimu](https://github.com/user-attachments/assets/829185bf-e4ed-4f3e-bf8d-ef7448e1ba80)
+
+In reality:
+pic:  ![4servo pic](https://github.com/user-attachments/assets/fd40f897-354f-4b4d-bb0e-3274da60658d)
+
+
+
+vid:  https://github.com/user-attachments/assets/7887c846-acb7-4aa6-a05b-c3d868323232
+
+
+
+
+
+https://github.com/user-attachments/assets/e645ce67-960e-4b87-853e-81cf73950a46
+
+https://github.com/user-attachments/assets/7d9dee0a-f1ae-41c9-b111-c06512b91f8d
+
+
+
+
