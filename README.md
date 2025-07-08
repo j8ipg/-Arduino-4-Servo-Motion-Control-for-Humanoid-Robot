@@ -120,9 +120,6 @@ vid:  https://github.com/user-attachments/assets/7887c846-acb7-4aa6-a05b-c3d8683
 
 
 
-https://github.com/user-attachments/assets/e645ce67-960e-4b87-853e-81cf73950a46
-
-https://github.com/user-attachments/assets/7d9dee0a-f1ae-41c9-b111-c06512b91f8d
 
 
 
